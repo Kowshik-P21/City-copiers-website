@@ -247,9 +247,11 @@ ul, ol {
   font-weight: 800;
   letter-spacing: -0.02em;
   line-height: 1.15;
-  background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-secondary) 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: var(--color-primary);
+}
+
+[data-theme="dark"] .brand-name {
+  color: #818CF8;
 }
 
 .brand-tagline {
