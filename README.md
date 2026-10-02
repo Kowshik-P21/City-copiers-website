@@ -79,8 +79,8 @@ Within 1–2 minutes, your website will be live worldwide at:
 
 - **Shop:** City Copiers
 - **Address:** 6th Cross St, Modern City, Deena Dayalan Nagar, Pattabiram, Tamil Nadu 600072. (OPP. TO HINDU COLLEGE RAILWAY STATION)
-- **Phone:** `+91 7401401740` / `+91 9150566155` / `+91 9444178823`
-- **WhatsApp:** `+91 7401401740` / `+91 9150566155`
+- **Phone:** `+91 7401407140` / `+91 9150566155` / `+91 9444178823`
+- **WhatsApp:** `+91 7401407140` / `+91 9150566155`
 - **Email:** `CITYCOPIERS105@GMAIL.COM`
 - **Hours:** Mon–Sat: 8:30 AM – 9:30 PM | Sun: 10:00 AM – 9:30 PM
 - **Google Maps:** [https://maps.app.goo.gl/Zdq2oj2qCWk1zcdx9](https://maps.app.goo.gl/Zdq2oj2qCWk1zcdx9)

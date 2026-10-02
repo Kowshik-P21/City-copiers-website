@@ -11,9 +11,9 @@
 
   // --- Configuration ---
   const CONFIG = {
-    primaryWhatsApp: '917401401740',
+    primaryWhatsApp: '917401407140',
     secondaryWhatsApp: '919150566155',
-    primaryPhone: '+91 7401401740',
+    primaryPhone: '+91 7401407140',
     shopEmail: 'CITYCOPIERS105@GMAIL.COM'
   };
 
